@@ -1,6 +1,6 @@
 {
   "name": "ng2-password-strength",
-  "version": "0.1.9",
+  "version": "1.0.8",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -16,15 +16,15 @@
     "url": "https://github.com/tonyhensler/ng2-password-strength.git"
   },
   "author": {
-    "name": "Tony Hensler",
-    "email": "thenslerse@gmail.com"
+    "name": "Creative Code",
+    "email": "tony@creativecodestudios.com"
   },
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonyhensler/ng2-password-strength.git/issues"
+    "url": "https://github.com/Clientplan/ng2-password-strength/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",

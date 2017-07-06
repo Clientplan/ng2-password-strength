@@ -1,0 +1,27 @@
+{
+  "name": "ng2-password-strength",
+  "version": "1.0.6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonyhensler/ng2-password-strength.git"
+  },
+  "author": {
+    "name": "Tony Hensler",
+    "email": "thenslerse@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonyhensler/ng2-password-strength.git/issues"
+  },
+  "module": "ng2-password-strength.js",
+  "typings": "ng2-password-strength.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "dependencies": {}
+}

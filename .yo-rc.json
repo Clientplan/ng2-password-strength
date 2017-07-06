@@ -1,0 +1,7 @@
+{
+  "generator-angular2-library": {
+    "promptValues": {
+      "gitRepositoryUrl": "https://github.com/tonyhensler/ng2-password-strength.git"
+    }
+  }
+}
